@@ -62,3 +62,9 @@ Be Patient... this may take hours!
 ## Launch Configuration Manager
 1. RDP to PS01
 2. Open Configuration Manager Console
+
+---
+## Monitor Your Usage!!!
+1. Visit [microsoftazuresponsorships.com](https://www.microsoftazuresponsorships.com)
+2. Click "Check your Balance"
+3. You may want to shut down you VM's when not in use in order to reduce "costs". 
