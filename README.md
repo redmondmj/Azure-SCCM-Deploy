@@ -57,6 +57,7 @@ Be Patient... this may take hours!
 3. Launch file explorer and browse to C:\Windows\Temp\ProvisionScript\PS1.json
 4. Check the status of your installation
     - ![Verify Subscription](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/install-status.PNG)
+5. Remain patient, until these show "Complete"
 
 ## Launch Configuration Manager
 1. RDP to PS01
