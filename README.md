@@ -32,7 +32,7 @@ Derived from - [azure-quickstart-templates](https://github.com/Azure/azure-quick
 1. Navigate to templates
 2. Click on the new template
 3. Click "Deploy"
-   - ![Verify Subscription](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/start-deploy.PNG)
+   - ![Verify Subscription](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/start-deployment.PNG)
 4. Create a new resource group
 5. Enter a prefix (this will prepend to VM hostnames) i.e. nscctr- will be nscctr-dc01
 6. Provide Administrator credentials
