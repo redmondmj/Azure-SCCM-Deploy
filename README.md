@@ -67,4 +67,18 @@ Be Patient... this may take hours!
 ## Monitor Your Usage!!!
 1. Visit [microsoftazuresponsorships.com](https://www.microsoftazuresponsorships.com)
 2. Click "Check your Balance"
-3. You may want to shut down you VM's when not in use in order to reduce "costs". 
+3. You may want to shut down you VM's when not in use in order to reduce "costs".
+4. Expect $13-15 usage for this complete resource group per day. So only run VM's when you need them!
+
+## Shut 'er Down
+1. Turn off your VM's when not in use!
+2. Navigate to Virtual Machines
+3. Click to check each VM
+4. Click Stop.
+    - ![Stop Virtual Machine](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/stopping.PNG)
+
+## Configure Auto-Shutdown
+1. Play it safe and set each VM to shut down automatically.
+2. Navigate to Vitrual MAchines and click on a VM to edit.
+3. Click Auto-Shutdown and configure.
+    - ![Auto Shutdown](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/auto-stop.PNG)
