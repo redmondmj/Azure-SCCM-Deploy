@@ -75,10 +75,10 @@ Be Patient... this may take hours!
 2. Navigate to Virtual Machines
 3. Click to check each VM
 4. Click Stop.
-    - ![Stop Virtual Machine](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/stopping.PNG)
+    - ![Stop Virtual Machine](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/stopping.JPG)
 
 ## Configure Auto-Shutdown
 1. Play it safe and set each VM to shut down automatically.
 2. Navigate to Vitrual MAchines and click on a VM to edit.
 3. Click Auto-Shutdown and configure.
-    - ![Auto Shutdown](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/auto-stop.PNG)
+    - ![Auto Shutdown](https://github.com/redmondmj/Azure-SCCM-Deploy/blob/master/images/auto-stop.JPG)
